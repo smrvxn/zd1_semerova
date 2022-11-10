@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="films">
+        <item name="film1">дневник баскетболиста</item>
+        <item name="film2">полночное солнце</item>
+        <item name="film3">будка поцелуев</item>
+        <item name="film4">после</item>
+        <item name="film5">все могу</item>
+    </array>
+</resources>
